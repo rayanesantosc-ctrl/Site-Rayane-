@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Theo Birthday//Invite//PT-BR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:theo-bday-1y-20251122@invite
+DTSTAMP:20251019T201814Z
+SUMMARY:Aniversário de 1 ano do Theo
+DTSTART;TZID=America/Sao_Paulo:20251122T160000
+DTEND;TZID=America/Sao_Paulo:20251122T190000
+LOCATION:Antigo cerimonial Dumas (Morada de Laranjeiras/Serra)
+DESCRIPTION:Vamos celebrar o primeiro ano do nosso pequeno astronauta!\nTema: Constelação/Astronauta\nLocal: Antigo cerimonial Dumas (Morada de Laranjeiras/Serra)\nHorário: 16h
+END:VEVENT
+END:VCALENDAR
